@@ -1,0 +1,51 @@
+nav {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 20px;
+  background-color: #560003;
+  color: #fff;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header div {
+  height: 269px;
+  background-color: #EA261B;
+}
+
+
+.container2 {
+  margin-left: 10px;
+  height: 385px;
+  background: #EA261B;
+}
+
+.container3 {
+  margin: 35px 140px 25px 20px;
+  height: 135px;
+  background: #550106;
+}
+
+.container4 {
+  height: 917px;
+  background-color: #230001;
+}
+
+
+.container5 {
+  padding: 140px 32px 70px 32px;
+  background: #EA261B;
+}
+
+.container6 {
+  height: 412px;
+  background-color: #D87F7E;
+}
+
+.container7 {
+  height: 204px;
+  background-color: #230001;
+}
